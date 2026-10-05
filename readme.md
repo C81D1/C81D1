@@ -87,8 +87,6 @@ My long-term trajectory:
 
 ![Python](https://img.shields.io/badge/Python-05070A?style=flat-square&logo=python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/C%2B%2B-05070A?style=flat-square&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-05070A?style=flat-square&logo=c&logoColor=A8B9CC)
-![JavaScript](https://img.shields.io/badge/JavaScript-05070A?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-05070A?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-05070A?style=flat-square&logo=css3&logoColor=1572B6)
 
