@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Pratham Harer — Deep Space Mission 001"/>
+  <img src="./assets/header.svg" width="100%" alt="Cayden Ohlson — Deep Space Mission 001"/>
 </div>
 
 <br/>
