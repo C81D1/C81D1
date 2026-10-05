@@ -1,5 +1,5 @@
 <!--
-  Repo must be named exactly like your username: Pratham1603/Pratham1603
+  Repo must be named exactly like your username: C81D1/C81D1
   Upload the whole `assets` folder too — every banner/diagram below loads from ./assets
 -->
 
@@ -49,13 +49,13 @@
 <b>PAYLOAD 001 — [PROJECT NAME]</b><br/>
 <sub>MISSION</sub>&nbsp; [WHAT IT DOES]<br/>
 <sub>STACK</sub>&nbsp;&nbsp;&nbsp; [TECHNOLOGIES]<br/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-c9a227?style=flat-square&labelColor=0d1117"/> <a href="https://github.com/Pratham1603/REPO-NAME">OPEN PAYLOAD →</a>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-c9a227?style=flat-square&labelColor=0d1117"/> <a href="https://github.com/C81D1/REPO-NAME">OPEN PAYLOAD →</a>
 </td>
 <td width="50%" valign="top">
 <b>PAYLOAD 002 — [PROJECT NAME]</b><br/>
 <sub>MISSION</sub>&nbsp; [WHAT IT DOES]<br/>
 <sub>STACK</sub>&nbsp;&nbsp;&nbsp; [TECHNOLOGIES]<br/>
-<img src="https://img.shields.io/badge/STATUS-COMPLETE-5fd0e0?style=flat-square&labelColor=0d1117"/> <a href="https://github.com/Pratham1603/REPO-NAME">OPEN PAYLOAD →</a>
+<img src="https://img.shields.io/badge/STATUS-COMPLETE-5fd0e0?style=flat-square&labelColor=0d1117"/> <a href="https://github.com/C81D1/REPO-NAME">OPEN PAYLOAD →</a>
 </td>
 </tr>
 <tr>
@@ -63,13 +63,13 @@
 <b>PAYLOAD 003 — [PROJECT NAME]</b><br/>
 <sub>MISSION</sub>&nbsp; [WHAT IT DOES]<br/>
 <sub>STACK</sub>&nbsp;&nbsp;&nbsp; [TECHNOLOGIES]<br/>
-<img src="https://img.shields.io/badge/STATUS-EXPERIMENTAL-6b7280?style=flat-square&labelColor=0d1117"/> <a href="https://github.com/Pratham1603/REPO-NAME">OPEN PAYLOAD →</a>
+<img src="https://img.shields.io/badge/STATUS-EXPERIMENTAL-6b7280?style=flat-square&labelColor=0d1117"/> <a href="https://github.com/C81D1/REPO-NAME">OPEN PAYLOAD →</a>
 </td>
 <td width="50%" valign="top">
 <b>PAYLOAD 004 — [PROJECT NAME]</b><br/>
 <sub>MISSION</sub>&nbsp; [WHAT IT DOES]<br/>
 <sub>STACK</sub>&nbsp;&nbsp;&nbsp; [TECHNOLOGIES]<br/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-c9a227?style=flat-square&labelColor=0d1117"/> <a href="https://github.com/Pratham1603/REPO-NAME">OPEN PAYLOAD →</a>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-c9a227?style=flat-square&labelColor=0d1117"/> <a href="https://github.com/C81D1/REPO-NAME">OPEN PAYLOAD →</a>
 </td>
 </tr>
 </table>
@@ -88,7 +88,7 @@
 
 <div align="center">
   <!-- Public hosted graph; can rate-limit occasionally -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham1603&bg_color=05070d&color=c9a227&line=c9a227&point=ffffff&area=true&area_color=c9a227&hide_border=true&title=SIGNAL%20TRAJECTORY" alt="Contribution trajectory" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C81D1&bg_color=05070d&color=c9a227&line=c9a227&point=ffffff&area=true&area_color=c9a227&hide_border=true&title=SIGNAL%20TRAJECTORY" alt="Contribution trajectory" width="100%"/>
 </div>
 
 <div align="center">
@@ -97,10 +97,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham1603&show_icons=true&hide_border=true&bg_color=05070d&title_color=c9a227&text_color=e8e8e8&icon_color=5fd0e0&custom_title=MISSION%20TELEMETRY" alt="Telemetry" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham1603&layout=compact&hide_border=true&bg_color=05070d&title_color=c9a227&text_color=e8e8e8&custom_title=SUBSYSTEM%20LOAD" alt="Subsystem load" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=C81D1&show_icons=true&hide_border=true&bg_color=05070d&title_color=c9a227&text_color=e8e8e8&icon_color=5fd0e0&custom_title=MISSION%20TELEMETRY" alt="Telemetry" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C81D1&layout=compact&hide_border=true&bg_color=05070d&title_color=c9a227&text_color=e8e8e8&custom_title=SUBSYSTEM%20LOAD" alt="Subsystem load" height="170"/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Pratham1603&background=05070d&border=05070d&stroke=333333&ring=c9a227&fire=c9a227&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9a227&sideLabels=e8e8e8&dates=8a8a8a" alt="Signal streak"/>
+  <img src="https://streak-stats.demolab.com/?user=C81D1&background=05070d&border=05070d&stroke=333333&ring=c9a227&fire=c9a227&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9a227&sideLabels=e8e8e8&dates=8a8a8a" alt="Signal streak"/>
 </div>
 
 <br/>
@@ -109,7 +109,7 @@
 
 <img src="./assets/roadmap.svg" width="100%" alt="Current trajectory roadmap"/>
 
-**Active interests:** C++ · Python · Linux · Docker · AI / ML · LLMs · Systems engineering · Robotics · Aerospace · `[ ADD MORE ]`
+**Active interests:** C++ · Python · Linux · Docker · AI / ML · Systems engineering · Robotics · Aerospace · `[ ADD MORE ]`
 
 <br/>
 
@@ -134,11 +134,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge)](https://www.linkedin.com/in/pratham-harer-143112315)
-[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=c9a227)](https://x.com/PROSEED_AI)
-[![Website](https://img.shields.io/badge/WEBSITE-0d1117?style=for-the-badge&logo=vercel&logoColor=c9a227)](https://pratham-harer.vercel.app/)
-[![Medium](https://img.shields.io/badge/MEDIUM-0d1117?style=for-the-badge&logo=medium&logoColor=c9a227)](https://medium.com/@prathamharer1603)
-[![Kaggle](https://img.shields.io/badge/KAGGLE-0d1117?style=for-the-badge&logo=kaggle&logoColor=c9a227)](https://www.kaggle.com/prathamharer)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=c9a227)](https://github.com/C81D1)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9a227)](https://www.linkedin.com/in/cayden-ohlson)
 [![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=c9a227)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
