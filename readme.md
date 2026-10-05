@@ -18,14 +18,14 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
-║                    DEEP SPACE MISSION // 001                   ║
+║                    DEEP SPACE MISSION // 001                     ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  OPERATOR       : CAYDEN OHLSON                                ║
-║  ORIGIN         : EARTH                                        ║
-║  PAYLOAD        : SOFTWARE                                     ║
-║  SIGNAL         : ACTIVE                                       ║
-║  TRAJECTORY     : SOFTWARE → SYSTEMS → AEROSPACE → SPACE      ║
-║  STATUS         : LEARNING / BUILDING / TRANSMITTING           ║
+║  OPERATOR       : CAYDEN OHLSON                                  ║
+║  ORIGIN         : EARTH                                          ║
+║  PAYLOAD        : SOFTWARE                                       ║
+║  SIGNAL         : ACTIVE                                         ║
+║  TRAJECTORY     : SOFTWARE → SYSTEMS → AEROSPACE → SPACE         ║
+║  STATUS         : LEARNING / BUILDING / TRANSMITTING             ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -69,12 +69,12 @@ My long-term trajectory:
                          ╭──────────────────────╮
                     ╭────┤    GOLDEN RECORD     ├────╮
                    ╱     ╰──────────────────────╯     ╲
-                  │                                     │
-                  │       PYTHON      C / C++           │
-                  │       LINUX       DOCKER            │
-                  │       GIT         WEB / MOBILE      │
-                  │       AI / ML     SYSTEMS           │
-                  │                                     │
+                  │                                    │
+                  │       PYTHON      C / C++          │
+                  │       LINUX       DOCKER           │
+                  │       GIT         WEB / MOBILE     │
+                  │       AI / ML     SYSTEMS          │
+                  │                                    │
                    ╲       PAYLOAD: KNOWLEDGE         ╱
                     ╰─────────────────────────────────╯
 ```
